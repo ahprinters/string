@@ -15,4 +15,6 @@ if ($pos === false) {
 } else {
     echo "The string '$findme' was found in the string '$mystring'";
     echo " and exists at position $pos";
-}
+}    
+
+?>
